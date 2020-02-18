@@ -1,4 +1,4 @@
-/*
+
 // This is a print statement to the concole
 
 // This is a example of variable using var
@@ -86,7 +86,6 @@ let justBought = groceries.pop ();
 console.log(groceries.length);
 
 console.log(justBought);
-*/
 
 
 // object
