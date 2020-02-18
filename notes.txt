@@ -1,0 +1,53 @@
+command + // in the line
+let
+const
+
+Do not declarication
+//don't use var anymore, var don't have scope
+
+****** re initiate
+
+
+let name = "Ali";
+let last_name = `HU`;
+let last_name = `${name} HU`;
+let name = "Yuanyuan's \"stupid\"";
+
+UPPERCASE usually reserved for const
+
+let awesome=undefined;
+
+let winners = null;
+
+let groceries = [];
+
+
+
+console.log(groceries);
+console.log(groceries.length);
+console.log(groceries[0]
+Array start from 0
+
+string needs "" !!!!!!!!!!!!!!
+
+
+pop remove the last one
+
+
+let person = {
+    name: {
+        firstName: "Yuanyuan",
+        middleName: null,
+        lastName: "Hu",
+    },
+
+    dateOfBirth: "08-10",
+    hair: "black",
+    hairStyle: "straight",
+
+
+
+};
+
+set keys inside ":"
+set keys outside "="
